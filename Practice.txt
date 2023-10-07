@@ -1,0 +1,29 @@
+psvm{
+ArrayList<String> ar=new ArrayList<>();
+ar.add("A");
+ar.add("B");
+ar.add("C");
+sop(ar);
+}
+
+psvm{
+ArrayList<String> ar2=new ArrayList<>();
+ar.add("A");
+ar.add("B");
+ar.add("C");
+
+//Iterator itr=ar.iterator();               
+//while(itr.hasNext()){
+//sop(itr.next());
+//}
+
+for(String aplha:ar){
+sop(alpha);
+}
+}
+
+
+**Collection.sort() to sort the elements
+
+
+
